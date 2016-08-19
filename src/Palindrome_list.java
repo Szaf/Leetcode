@@ -1,5 +1,10 @@
 import java.util.ArrayList;
 
+/**
+ * www.leetcode.com -> Problems -> Algorithms -> 336. Palindrome Pairs
+ * @author Andrej
+ *
+ */
 public class Palindrome_list {
 	private static ArrayList<String> words = new ArrayList<String>();
 	public static void main(String[] args) {
